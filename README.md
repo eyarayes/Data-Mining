@@ -1,5 +1,11 @@
-# Ce répertoire est dédié au TP Data Mining 3DNI 
-### <p style="color:#1CBCC9" >Réalisé par:Eya RAYES 3DNI2  </p>
+# This directory is dedicated to TP Data Mining 3DNI 
+### <p style="color:#1CBCC9" >By:Eya RAYES 3DNI2  </p>
+
+## Meanwhile :  [certification 1][cdi]
+
+
+
+[cdi]: https://learn.datacamp.com/courses/cleaning-data-in-python
 
 ## TP1 : Cleaning Data
 Section 1: Data Analysis Essentials 
