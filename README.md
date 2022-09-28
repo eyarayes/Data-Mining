@@ -5,7 +5,7 @@
 
 
 
-[cdi]: https://learn.datacamp.com/courses/cleaning-data-in-python
+[cdi]: https://app.datacamp.com/learn/skill-tracks/importing-cleaning-data-with-python
 
 ## TP1 : Cleaning Data
 Section 1: Data Analysis Essentials 
